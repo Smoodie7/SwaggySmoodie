@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwaggySmoodie
 - 👀 I’m interested in cyber security and programmation
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning "advanced" cyber security
 - 📫 If you want to contact me, send me a DM on Discord : Smoodie ©#5607
 
 <!---
